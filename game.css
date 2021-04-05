@@ -1,0 +1,209 @@
+body
+{
+
+
+    background-image:linear-gradient(plum,pink) ;
+    background-size:cover;
+    background-repeat:no-repeat;
+	
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        font-family: 'Lobster Two', cursive;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+    font-family: 'Lobster Two', cursive;
+}
+#word
+{
+	width: 60%;
+    font-family: 'Lobster Two', cursive;
+}
+#word_display
+{
+	letter-spacing: 5px;
+    font-family: 'Lobster Two', cursive;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid palevioletred;
+padding: 10px;
+float: none;
+text-align: left;
+font-family: 'Lobster Two', cursive;
+}
+
+#title {
+
+font-family:'Lobster Two',cursive;
+font-size:60px;
+
+}
+
+#player_question {
+
+    font-family:'Lobster Two',cursive;
+	color:white;
+	background-color:pink;
+	border-color:rgb(243, 88, 171);
+	color:rgb(243, 88, 171);
+	border-width:5px;
+	border-style:solid;
+	border-radius:20px;
+	width:25%;
+	
+
+}
+
+#player_answer {
+
+    font-family:'Lobster Two',cursive;
+	color:white;
+	
+	background-color:plum;
+	border-color:purple;
+	color:purple;
+	border-width:5px;
+	border-style:solid;
+	border-radius:20px;
+	width:25%;
+
+}
+
+#n__1 , #n__2 {
+
+font-family: 'Lobster Two' , cursive;
+color:white;
+
+}
+
+#n__1 {
+
+	background-color:pink;
+	border-color:rgb(243, 88, 171);
+	color:rgb(243, 88, 171);
+	border-width:5px;
+	border-style:solid;
+	border-radius:20px;
+	width:15%;
+	
+
+}
+
+
+#n__2 {
+
+	background-color:plum;
+	border-color:purple;
+	color:purple;
+	border-width:5px;
+	border-style:solid;
+	border-radius:20px;
+	width:15%;
+	
+
+}
+
+
+
+
+#number1 , #number2 {
+
+font-family: 'Lobster Two',cursive;
+
+}
+
+#number1 {
+
+
+	background-color:pink;
+	border-color:rgb(243, 88, 171);
+	color:rgb(243, 88, 171);
+	border-width:5px;
+	border-style:solid;
+	border-radius:20px;
+
+	
+}
+
+#number2 {
+
+
+ 
+
+		background-color:plum;
+		border-color:purple;
+		color:purple;
+		border-width:5px;
+		border-style:solid;
+		border-radius:20px;
+		
+	
+	
+
+}
+
+#b {
+
+font-family:'Lobster Two', cursive;
+
+}
+
+#h4{
+
+color:rgb(243, 88, 171);
+
+}
+
+#h41 {
+
+color:rgb(155, 81, 155);
+
+
+}
+
+#bb {
+
+font-family:'Lobster Two', cursive;
+
+}
+
+#input_check_box {
+
+color:purple;
+background-color:plum;
+border-width:5px;
+border-style:solid;
+border-color:purple;
+border-radius:20px;
+margin-right:20px;
+
+}
+
+#bbb {
+
+color:deeppink;
+background-color:pink;
+border-color:deeppink;
+border-width:3px;
+border-style:solid;
+
+}
+
+#title {
+
+	color:white;
+	font-size:70px;
+}

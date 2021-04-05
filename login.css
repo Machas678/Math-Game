@@ -1,0 +1,91 @@
+body {
+text-align:center;
+background-image: linear-gradient(plum,pink);
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+#p1_l {
+text-align:center;
+border-width:medium;
+border-style:solid;
+width:300px;
+margin-left: 485px;
+margin-right: 485px;
+padding-bottom:10px;
+border-radius:20px;
+font-family: 'Lobster Two', cursive;
+background-color:rgb(245, 185, 195);
+border-color:rgb(243, 88, 171);
+color:rgb(243, 88, 171);
+}
+
+#p2_l {
+text-align:center;
+border-width:medium;
+border-style:solid;
+width: 300px;
+margin-right: 485px;
+margin-left: 485px;
+padding-bottom:10px;
+border-radius:20px;
+font-family: 'Lobster Two', cursive;
+background-color:plum;
+border-color:rgb(128, 69, 128);
+color:rgb(128, 69, 128);
+}    
+
+#p1-u {
+
+margin-top:10px;
+margin-bottom:10px;
+border-radius:20px;
+text-align:center;
+font-family: 'Lobster Two', cursive;
+border-color:rgb(252, 132, 152);
+border-style:solid;
+
+}
+
+#p2-u {
+
+    margin-top:10px;
+    margin-bottom:10px;
+    border-radius:20px;
+    text-align:center;
+    font-family: 'Lobster Two', cursive;
+    border-color:rgb(128, 69, 128);
+    border-style:solid;
+    
+}
+
+#login_b {
+
+border-width:2px;
+border-radius:10px;
+border-style:solid;
+margin-bottom:10px;
+font-family: 'Lobster Two', cursive;
+background-color:rgb(192, 212, 255);
+border-color:rgb(148, 175, 248);
+color:rgb(89, 151, 245);
+width: 100px;
+height:40px;
+font-size:25px;
+
+}
+
+#title {
+
+font-family: 'Lobster Two', cursive;
+font-size:80px;
+margin-bottom:30px;
+color:white;
+
+}
+
+h4 {
+
+font-family: 'Lobster Two', cursive;
+
+}
